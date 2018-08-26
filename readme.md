@@ -1,6 +1,6 @@
-## Get Started:
+## How to use:
 
-### 1- cmd:
+### 1- terminal/cmd:
 
 ```
 >pip install -r requirements.txt

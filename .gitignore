@@ -1,1 +1,74 @@
 env
+*.csv
+*.json
+# CA/CA_category_id.json
+# CA/CAvideos.csv
+# CA/category/by_category.csv
+# CA/exposure/by_streaks.csv
+# CA/exposure/by_views.csv
+# CA/reactions/by_comments.csv
+# CA/reactions/by_dislikes.csv
+# CA/reactions/by_likes.csv
+# CA/reactions/by_ratio.csv
+# CA/tags/by_mentions.csv
+# CA/tags/by_tags.csv
+# CA/tags/tag_by_cat.csv
+# CA/tags/tags_by_likes.csv
+# CA/tags/tags_by_views.csv
+
+# DE/DE_category_id.json
+# DE/DEvideos.csv
+# DE/category/by_category.csv
+# DE/exposure/by_streaks.csv
+# DE/exposure/by_views.csv
+# DE/reactions/by_comments.csv
+# DE/reactions/by_dislikes.csv
+# DE/reactions/by_likes.csv
+# DE/reactions/by_ratio.csv
+# DE/tags/by_mentions.csv
+# DE/tags/tag_by_cat.csv
+# DE/tags/tags_by_likes.csv
+# DE/tags/tags_by_views.csv
+
+# FR/FR_category_id.json
+# FR/FRvideos.csv
+# FR/category/by_category.csv
+# FR/exposure/by_streaks.csv
+# FR/exposure/by_views.csv
+# FR/reactions/by_comments.csv
+# FR/reactions/by_dislikes.csv
+# FR/reactions/by_likes.csv
+# FR/reactions/by_ratio.csv
+# FR/tags/by_mentions.csv
+# FR/tags/tag_by_cat.csv
+# FR/tags/tags_by_likes.csv
+# FR/tags/tags_by_views.csv
+
+# GB/GB_category_id.json
+# GB/GBvideos.csv
+# GB/category/by_category.csv
+# GB/exposure/by_streaks.csv
+# GB/exposure/by_views.csv
+# GB/reactions/by_comments.csv
+# GB/reactions/by_dislikes.csv
+# GB/reactions/by_likes.csv
+# GB/reactions/by_ratio.csv
+# GB/tags/by_mentions.csv
+# GB/tags/tag_by_cat.csv
+# GB/tags/tags_by_likes.csv
+# GB/tags/tags_by_views.csv
+
+# US/US_category_id.json
+# US/USvideos.csv
+# US/category/by_category.csv
+# US/exposure/by_streaks.csv
+# US/exposure/by_views.csv
+# US/reactions/by_comments.csv
+# US/reactions/by_dislikes.csv
+# US/reactions/by_likes.csv
+# US/reactions/by_ratio.csv
+# US/tags/by_mentions.csv
+# US/tags/tag_by_cat.csv
+# US/tags/tags_by_likes.csv
+# US/tags/tags_by_views.csv
+# global/by_mentions.csv
